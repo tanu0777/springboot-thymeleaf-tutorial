@@ -1,0 +1,13 @@
+.logo{
+	width:10%;
+	padding-left: 5px;
+	padding-top: 5px;
+}
+
+.light-text{
+	color: grey;
+}
+
+section, footer{
+	padding-left: 100px;
+}
