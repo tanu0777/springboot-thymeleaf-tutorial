@@ -15,7 +15,7 @@ public class HomeController {
 
 
 
-	/*
+	/* List iterate 
 	 * @GetMapping public String home(Model model) { model.addAttribute("features",
 	 * Arrays.asList( "List iterate", "HTML template")); return "index"; }
 	 */
